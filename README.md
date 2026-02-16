@@ -155,10 +155,6 @@ Las contribuciones son bienvenidas. Por favor:
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
-## 👨‍💻 Autor
-
-**Alex**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
 
 ## 📚 Referencias
 
