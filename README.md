@@ -90,7 +90,6 @@ comparacion-algoritmos/
 ├── Comparación_de_Algoritmos.ipynb  # Notebook principal con todo el análisis
 ├── README.md                         # Documentación del proyecto
 ├── requirements.txt                  # Dependencias del proyecto
-└── .gitignore                        # Archivos ignorados por Git
 ```
 
 ## 🎓 Secciones del Notebook
